@@ -1,5 +1,16 @@
-### Hi there 👋
 
+```yaml
+apiVersion: human.experimental/v1beta1
+kind: Person
+metadata:
+  name: Krishnan Raghavan
+  labels:
+    role: software-developer
+    environment: production
+spec:
+  replicas: 1
+
+```
 <!--
 **krishnan-r/krishnan-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
